@@ -3,7 +3,7 @@
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
 Im an aspiring DevOps and Cloud Engineer with foundational knowledge in cloud platforms such as AWS and Azure. Skilled in utilizing essential DevOps tools like Git, Docker, Jenkins, Terraform, and Kubernetes for efficient deployment and automation. Hands-on experience in implementing serverless architectures, CI/CD pipelines, and infrastructure as code, technical skills in Python to build robust, scalable, and secure cloud solutions. Enthusiastic about leveraging cutting-edge technologies to drive business efficiency and innovation. You can also checkout my portfolio
-https://shivamsoni1995.github.io/
+https://shivamsoni1995.github.io/ShivamSoni1995-2.github.io/
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shivam%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-soni-43661a242/)]([https://www.linkedin.com/in/levelupwithbroadus/](https://www.linkedin.com/in/shivam-soni-43661a242/))
