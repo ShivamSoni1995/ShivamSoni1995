@@ -13,12 +13,22 @@ https://shivamsoni1995.github.io/ShivamSoni1995-2.github.io/
 
 <!-- Check out the Badges folder for more badges -->
 
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+<!--![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) -->
+
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" height="20">
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="20">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="20">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" height="20">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="20">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="20">
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" height="20">
+</p>
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
