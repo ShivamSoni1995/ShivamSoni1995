@@ -24,7 +24,7 @@ https://shivamsoni1995.github.io/ShivamSoni1995-2.github.io/
 <p>
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" height="30">
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="30">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="20">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="30">
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" height="30">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="30">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="30">
