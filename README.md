@@ -35,4 +35,13 @@ https://shivamsoni1995.github.io/ShivamSoni1995-2.github.io/
   
 </p>
 
+🔗 Connect with Me Everywhere! 🌍
+
+📌 LinkedIn: [Shivam Soni](www.linkedin.com/in/shivam-soni-43661a242)
+
+📌 [GitHub](https://github.com/ShivamSoni1995)
+
+📌 [Hashnode](https://shivtrent.hashnode.dev/)
+
+
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
