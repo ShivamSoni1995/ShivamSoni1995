@@ -41,7 +41,14 @@ https://shivamsoni1995.github.io/ShivamSoni1995-2.github.io/
 
 📌 [GitHub](https://github.com/ShivamSoni1995)
 
-📌 [Hashnode](https://shivtrent.hashnode.dev/)
+📌 I regularly write articles on [Hashnode](https://shivtrent.hashnode.dev/)
+
+📌 👨‍💻 All of my projects are available at [Github](https://github.com/ShivamSoni1995)
+
+📌 📫 How to reach me shivtrent800@gmail.com
+
+📌 📄 Know about my experiences (https://drive.google.com/file/d/1Lx6jChBTx8g9wnZSLz2xztXwUdqiIemv/view?usp=sharing)
+
 
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
