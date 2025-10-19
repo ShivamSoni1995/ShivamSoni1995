@@ -46,7 +46,7 @@ Im an aspiring DevOps and Cloud Engineer with foundational knowledge in cloud pl
 
 📌 📫 How to reach me shivtrent800@gmail.com
 
-📌 📄 Know about my experiences (https://drive.google.com/file/d/1Lx6jChBTx8g9wnZSLz2xztXwUdqiIemv/view?usp=sharing)
+📌 📄 Know about my experiences through [Resume](https://drive.google.com/file/d/1TTnQqFyldukfNKUw2hMiQX2me6LQ-GE3/view?usp=sharing)
 
 
 
