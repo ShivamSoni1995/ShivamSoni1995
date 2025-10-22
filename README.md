@@ -36,13 +36,11 @@ Im an aspiring DevOps and Cloud Engineer with foundational knowledge in cloud pl
 
 🔗 Connect with Me Everywhere! 🌍
 
-📌 LinkedIn: [Shivam Soni](www.linkedin.com/in/shivam-soni-43661a242)
+📌 [LinkedIn](www.linkedin.com/in/shivam-soni-43661a242)
 
 📌 [GitHub](https://github.com/ShivamSoni1995)
 
 📌 I regularly write articles on [Hashnode](https://shivtrent.hashnode.dev/)
-
-📌 👨‍💻 All of my projects are available at [Github](https://github.com/ShivamSoni1995)
 
 📌 📫 How to reach me shivtrent800@gmail.com
 
